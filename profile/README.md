@@ -17,7 +17,7 @@
 
 We pursue AI systems capable of closed-loop cognitive iteration — systems that autonomously refine reasoning, generate cross-domain hypotheses, and expand the frontier of understanding. Our goal is to move beyond static knowledge recognition toward machines that uncover hidden causal structures, identify universal patterns, and make genuine discoveries.
 
-### Apex Research &nbsp; <a href="https://waitlist.apexin.ai/"><img src="https://img.shields.io/badge/Join%20Waitlist-blue?style=for-the-badge" alt="Join Waitlist"/></a>
+### Apex Research &nbsp; [Join Waitlist !](https://waitlist.apexin.ai/)
 
 Our AI research system **Apex Research** has passed a Turing test for scientific research at top AI conferences. Among 34 fully AI-generated manuscripts submitted to ACL Rolling Review, 8 received average overall scores above 3.0, outperforming more than 88% of human submissions. Two achieved a score of 3.67, exceeding the competitive acceptance threshold and outperforming more than 99% of human papers.
 
