@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/apexin-ai/.github/main/profile/logo.svg" alt="Apex Intelligence" width="360"/>
+  <img src="https://raw.githubusercontent.com/apexin-ai/.github/main/profile/logo.png" alt="Apex Intelligence" width="360"/>
 </p>
 
 <h3 align="center">Self-Evolving Foundation Models, Unlock Undiscovered Discovery</h3>
