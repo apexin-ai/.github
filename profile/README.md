@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.apexin.ai/">Website</a> &middot;
   <a href="https://github.com/apexin-ai/apex-research-report">Research</a> &middot;
+  <a href="https://waitlist.apexin.ai/">Waitlist</a> &middot;
   <a href="mailto:contact@apexin.ai">Contact</a>
 </p>
 
